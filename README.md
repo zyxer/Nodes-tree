@@ -8,8 +8,10 @@ Support tree and discordant direction.
 https://drive.google.com/file/d/0B1Y9N8o1d33KdlRSWGhJWnhYUFU
 
 Requirements:
-python >= 2.6; 
-wxPython >= 2.8; 
-numpy >= 1.6
+<ul>
+<li>python >= 2.6;</li>
+<li>wxPython >= 2.8;</li>
+<li>numpy >= 1.6</li>
+</ul>
 
 This project based on https://github.com/Akson/MoveMe
