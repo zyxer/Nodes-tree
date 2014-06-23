@@ -13,4 +13,4 @@ Support tree and discordant direction.
 <li>numpy >= 1.6</li>
 </ul>
 
-This project based on https://github.com/Akson/MoveMe
+Ideological project based on https://github.com/Akson/MoveMe
