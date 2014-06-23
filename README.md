@@ -1,4 +1,4 @@
-Nodes tree ("binary tree" or "binary graph")
+"binary tree" or "binary graph"
 ==========
 
 Project implemented as one-window GUI wxPython based app, with history changes and ability to turn back a few steps for your canvas, backlight input and output connections, canvas snapshots, deleting nodes with save in- and out-connections, D&D nodes to canvas and more other.
